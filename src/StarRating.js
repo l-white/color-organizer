@@ -1,5 +1,3 @@
-import { useState } from 'react'
-import { FaStar } from 'react-icons/fa'
 import Star from './Star'
 
 const createArray = (length) => [...Array(length)]
